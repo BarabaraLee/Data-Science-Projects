@@ -4,6 +4,7 @@ This repo hosts some of the data science projects that Linjun Li has finished. E
 1. Study of Mass-market Retailer Product Promotions.ipynb
 2. Assess the Issues in AB Test.ipynb
 3. NYC MTA Passenger Traffic Analysis.ipynb
+4. NYC Taxi Traffic Analysis.ipynb
 
 
 Note: 
