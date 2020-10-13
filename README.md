@@ -7,6 +7,7 @@ This repo hosts some of the data science projects that Linjun Li has finished. E
 4. NYC Taxi Traffic Analysis.ipynb
 5. User Engagement Test.ipynb
 6. Ads Analysis.ipynb
+7. Pricing Test.ipynb
 
 Note: 
 Visualizations with pp.ProfileReport() are not rendered properly on Github, so the related code are commented out and no related visualizations will be shown.
