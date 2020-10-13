@@ -2,12 +2,12 @@
 This repo hosts some of the data science projects that Linjun Li has finished. Each project is presented in a separate Jupyter notebook.
 
 1. Study of Mass-market Retailer Product Promotions.ipynb
-2. Assess the Issues in AB Test.ipynb
+2. Assess the Issues in AB Test.ipynb (A/B Test)
 3. NYC MTA Passenger Traffic Analysis.ipynb
 4. NYC Taxi Traffic Analysis.ipynb
-5. User Engagement Test.ipynb
+5. User Engagement Test.ipynb (A/B Test)
 6. Ads Analysis.ipynb
-7. Pricing Test.ipynb
+7. Pricing Test.ipynb (A/B Test)
 
 Note: 
 Visualizations with pp.ProfileReport() are not rendered properly on Github, so the related code are commented out and no related visualizations will be shown.
