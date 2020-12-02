@@ -8,6 +8,7 @@ This repo hosts some of the data science and projects that Linjun Li has finishe
 5. User Engagement Test.ipynb (A/B Test)
 6. Ads Analysis.ipynb
 7. Pricing Test.ipynb (A/B Test)
+8. Funnel Analysis.ipynb
 
 Note: 
 Visualizations with pp.ProfileReport() are not rendered properly on Github, so the related code are commented out and no related visualizations will be shown.
