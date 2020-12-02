@@ -9,6 +9,8 @@ This repo hosts some of the data science and projects that Linjun Li has finishe
 6. Ads Analysis.ipynb
 7. Pricing Test.ipynb (A/B Test)
 8. Funnel Analysis.ipynb
+9. Subscription Retention.ipynb
+10. User Referral Program.ipynb (A/B Test)
 11. Sessionize User Activity.ipynb
 
 Note: 
