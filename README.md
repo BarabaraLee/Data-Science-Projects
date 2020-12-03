@@ -12,7 +12,7 @@ This repo hosts some of the data science and projects that Linjun Li has finishe
 9. Subscription Retention.ipynb
 10. User Referral Program.ipynb (A/B Test)
 11. Sessionize User Activity.ipynb
-12. Video Sharing Analysis.ipynb
+12. Hotel Search.ipynb
 
 Note: 
 Visualizations with pp.ProfileReport() are not rendered properly on Github, so the related code are commented out and no related visualizations will be shown.
