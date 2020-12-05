@@ -10,7 +10,7 @@ This repo hosts some of the data science and projects that Linjun Li has finishe
 7. Pricing Test.ipynb (A/B Test)
 8. Funnel Analysis.ipynb
 9. Subscription Retention.ipynb
-10. User Referral Program.ipynb (A/B Test)
+10. Workplace Diversity Analysis.ipynb
 11. Sessionize User Activity.ipynb
 12. Hotel Search.ipynb
 
